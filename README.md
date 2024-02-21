@@ -4,6 +4,8 @@ This Python script, titled "Recipes," offers a set of functions for recipe analy
 
 ## Functionalities
 
+## All of the main code is located in the lab.py file. The following functions can be found there.
+
 ### 1. `make_recipe_book`
 
 **Purpose:** Constructs a dictionary mapping each compound food item to a list of associated ingredient lists. A compound food item is a food item made up of other foods. 
